@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-84d^aa$5ryo@i=3l8q6ukyd_3d^y5^ne+cbw=%+hh*ovp(d&g&'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = [
     'saveimages.pythonanywhere.com',
